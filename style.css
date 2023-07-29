@@ -2,3 +2,13 @@
     background-color: rgb(94, 255, 0);
     size: 10px ;
 }
+list{
+    display: flex;
+    line-height: 4;
+ 
+}
+nav{
+    display: flex;
+    background-color: rgb(255, 225, 0);
+    
+}
