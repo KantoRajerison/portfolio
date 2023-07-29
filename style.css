@@ -16,7 +16,11 @@ list{
 nav{
     display: flex;
     background-color: rgb(255, 225, 0);
-    
+        word-spacing: normal;
+    margin: 16px;
+    padding-left: 40px;
+    display: flex;
+ 
 }
 p{
     font-size: 1em;
