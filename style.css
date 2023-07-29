@@ -4,7 +4,7 @@
 }
 .list{
     position: absolute;
-    margin: 30px;
+    margin: 0 30px;
     display: flex;
     justify-content: space-between;
     width:100%;
