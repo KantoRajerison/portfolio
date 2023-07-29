@@ -3,18 +3,22 @@
     size: 10px ;
 }
 .list{
+    position: absolute;
+    margin: 30px;
     display: flex;
-    line-height: 4;
-    word-spacing: normal;
-    margin: 16px;
-    padding-left: 40px;
-    display: flex;
+    justify-content: space-between;
+    width:100%;
+    box-sizing: border-box;
+
  
 }
 nav{
+    position: absolute;
+    margin: 30px;
     display: flex;
-    background-color: rgba(123, 225, 234, 0.638);
-    size: 10cm
+    justify-content: space-between;
+    width:100%;
+    box-sizing: border-box;
     
 }
 p{
