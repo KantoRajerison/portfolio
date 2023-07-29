@@ -1,22 +1,20 @@
 .container{
     background-color: rgb(147, 158, 221);
-    size: 10px ;
+    size: 50px ;
 }
-list{
+.list{
     display: flex;
     line-height: 4;
     word-spacing: normal;
     margin: 16px;
     padding-left: 40px;
     display: flex;
-
- 
  
 }
 nav{
     display: flex;
-    background-color: rgb(255, 225, 0);
- 
+    background-color: rgba(123, 225, 234, 0.638);
+    
 }
 p{
     font-size: 1em;
