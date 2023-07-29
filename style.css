@@ -1,6 +1,6 @@
 .container{
     background-color: rgb(147, 158, 221);
-    size: 50px ;
+    size: 10px ;
 }
 .list{
     display: flex;
@@ -14,6 +14,7 @@
 nav{
     display: flex;
     background-color: rgba(123, 225, 234, 0.638);
+    size: 10cm
     
 }
 p{
