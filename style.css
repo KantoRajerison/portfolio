@@ -6,7 +6,9 @@ list{
     display: flex;
     line-height: 4;
     word-spacing: normal;
-
+    margin: 0;
+    padding: 0;
+ 
 }
 nav{
     display: flex;
