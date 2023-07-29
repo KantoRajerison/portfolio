@@ -13,14 +13,8 @@
  
 }
 nav{
-    position: absolute;
-    margin: 30px;
-    display: flex;
-    justify-content: space-between;
-    width:100%;
-    box-sizing: border-box;
-    
+    margin: 0;
+    padding: 0;
 }
-p{
-    font-size: 1em;
-}
+
+
