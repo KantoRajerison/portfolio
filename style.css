@@ -1,45 +1,4 @@
-                <style>
 
-.flex-container > div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
-}
-</style>
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-.container{
-    background-color: rgb(147, 158, 221);
-    size: 10px ;
-}
-.list{
-    position: absolute;
-    margin: 0 30px;
-    display: flex;
- 
-}
-nav{
-    margin: 0;
-    padding: 0;
-}
-li{
-  display : inline,
-float : left,
-}
-
-a{
-  display : block,
-  background-color : blue,
-  padding : 10px;
-
-body{
-    margin: 0;
-}
 .container{
     border : 10px solid rgba(165, 42, 42, 0.836);
     display: inline-flex;
