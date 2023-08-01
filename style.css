@@ -1,8 +1,4 @@
                 <style>
-.flex-container {
-  display: flex;
-  background-color: DodgerBlue;
-}
 
 .flex-container > div {
   background-color: #f1f1f1;
@@ -25,9 +21,7 @@ ul {
     position: absolute;
     margin: 0 30px;
     display: flex;
-    justify-content: space-between;
-    width:100%;
-    box-sizing: border-box; 
+ 
 }
 nav{
     margin: 0;
@@ -36,6 +30,7 @@ nav{
 li{
   display : inline
 }
+
 a{
   display : block,
   background-color : bluepattern,
