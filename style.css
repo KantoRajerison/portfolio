@@ -33,6 +33,14 @@ nav{
     margin: 0;
     padding: 0;
 }
+li{
+  display : inline
+}
+a{
+  display : block,
+  background-color : bluepattern,
+  padding : 10px;
+  
 
 
     
