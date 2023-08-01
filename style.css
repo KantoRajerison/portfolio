@@ -1,6 +1,5 @@
 
 .container{
-    display: flex;
     float: inline-end;
     padding: 10px 30px;
      background-color: rgb(117, 109, 65);
@@ -8,4 +7,20 @@
     border-radius: 60px ;
     cursor : pointer;
     transition: all  ;
+     {
+    display: flex;
+  }
+  .Home {
+    flex: 1 1 auto;
+  }
+
+  .Contact {
+    flex: 1 1 auto;
+  }
+
+  .About {
+    flex: 1 1 auto;
+  }
+.Divers {
+    flex: 
 }
