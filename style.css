@@ -1,7 +1,7 @@
+
 .container{
-  display.flex
-}
-.container{
+    display: flex;
+    float: inline-end;
     padding: 10px 30px;
     background-color: brown;
     border: none;
