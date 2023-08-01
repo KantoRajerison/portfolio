@@ -41,7 +41,8 @@ body{
     margin: 0;
 }
 .container{
-    border : 10px solid rgba(165, 42, 42, 0.836)
+    border : 10px solid rgba(165, 42, 42, 0.836);
+    display: inline-flex;
 }
 .flex.item{
     color: rgb(63, 158, 187);
