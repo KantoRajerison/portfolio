@@ -4,7 +4,6 @@
     margin : 0;
     padding : 0;
     display : flex;
-    justify-content : center;
     align-items : center;
 }
 ul
@@ -13,10 +12,10 @@ ul
     padding : 0;
     display : flex;
 }
-ul li
+ul li 
 {
     li style : none;
     margin : 0 10px;
-    transition : 1s;
+    transition : 8s;
 }
     
