@@ -7,7 +7,7 @@
     justify-content : center;
     align-items : center;
     background-color : rgb(31, 166, 220);
-    flex-direction: row | row-reverse | column | column-reverse;
+    flex-direction: row;
 }
     
 ul
@@ -15,23 +15,18 @@ ul
     margin : 0;
     padding : 0;
     display : flex;
-    line-height : 70px;
     
 }
 ul li 
 {
     li style : none;
-    margin : 0 10px;
-    transition : 8s;
-    align-content : space-between;
+    margin : 0;
     width : 30px;
     font-size : 10px;
     gap : 10px;
     
 }
-.section >img {
-    align-items : center;
-}
+
 
 
 
