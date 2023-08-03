@@ -4,8 +4,9 @@
     margin : 0;
     padding : 0;
     display : flex;
-    justify-content : flex-start;
-    background-color : blue;
+    justify-content : center;
+    align-items : center;
+    background-color : rgb(31, 166, 220);
 }
 ul
 { 
@@ -18,5 +19,6 @@ ul li
     li style : none;
     margin : 0 10px;
     transition : 8s;
+    width : 30px;
 }
     
