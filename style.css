@@ -1,7 +1,22 @@
 
 .container
 {
-    display : flex;
     margin : 0;
     padding : 0;
+    display : flex;
+    justify-content : center;
+    align-items : center;
 }
+ul
+{ 
+    margin : 0;
+    padding : 0;
+    display : flex;
+}
+ul li
+{
+    li style : none;
+    margin : 0 10px;
+    transition : 1s;
+}
+    
