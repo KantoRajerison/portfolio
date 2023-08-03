@@ -14,12 +14,17 @@ ul
     margin : 0;
     padding : 0;
     display : flex;
+    line-height : 70px;
+    
 }
 ul li 
 {
     li style : none;
     margin : 0 10px;
     transition : 8s;
+    align-content : space-between;
     width : 30px;
+    font-size : 10px;
+    
 }
     
