@@ -1,26 +1,7 @@
 
-.container{
-    float: inline-end;
-    padding: 10px 30px;
-     background-color: rgb(117, 109, 65);
-    border: none;
-    border-radius: 60px ;
-    cursor : pointer;
-    transition: all  ;
-     {
-    display: flex;
-  }
-  .Home {
-    flex: 1 1 auto;
-  }
-
-  .Contact {
-    flex: 1 1 auto;
-  }
-
-  .About {
-    flex: 1 1 auto;
-  }
-.Divers {
-    flex: 
+.container
+{
+    display : flex;
+    margin : 0;
+    padding : 0;
 }
