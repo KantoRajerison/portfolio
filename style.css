@@ -4,44 +4,51 @@
     
 .container
 {
-    margin : 0px;
-    padding : 0px;
-    display : flex;
-    justify-content : space-around;
-    align-items : center;
-    background-color : rgb(31, 166, 220);
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(31, 166, 220);
     flex-direction: row;
-    font-size : 50px;
+    font-size: 30px;
 }
     
 ul
 { 
-    margin : 0;
-    padding : 0;
-    display : flex;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    font-size: larger;
 }
 ul li 
 {
-    margin : 0;
-    padding :10px;
-    width : 30px;
-    font-size : 10px;
-    gap : 10px;   
+    margin: 0;
+    padding: 10px;
+    width: 30px;
+    font-size: 10px;
+    gap: 10px; 
+    display: flex;
+    justify-content: space-between;
 }
  nav{
     display: flex;
 }
- ul li a{
-    display : flex;
-    text-decoration: none;
-}
+    
   main{
     display: flex;
     justify-content: space-evenly;
  }
   .Finaritra{
-    margin-left: 10cm;
-    margin-right: 10cm;
+    margin-left: 25px;
+    margin-right: 20px;
+     margin-top: 150px;
  }
+.p{
+       font-size: 20px;
+    color: black;
+}
+
+
 
 
