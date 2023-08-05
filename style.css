@@ -19,35 +19,29 @@ ul
     margin : 0;
     padding : 0;
     display : flex;
-
-    
-
 }
 ul li 
 {
-
     margin : 0;
     padding :10px;
     width : 30px;
     font-size : 10px;
-    gap : 10px;
-    
+    gap : 10px;   
 }
-nav{
+ nav{
     display: flex;
 }
-ul li a{
+ ul li a{
     display : flex;
     text-decoration: none;
 }
- main{
+  main{
     display: flex;
     justify-content: space-evenly;
  }
- .Finaritra{
+  .Finaritra{
     margin-left: 10cm;
     margin-right: 10cm;
-
  }
 
 
